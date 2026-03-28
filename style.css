@@ -1866,6 +1866,9 @@ footer {
 
 /* Responsive Design */
 @media (max-width: 768px) {
+    /* button {
+        display: block;
+    } */
     .hamburger {
         display: flex;
     }
@@ -2157,3 +2160,16 @@ footer {
         font-size: 0.85rem;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+

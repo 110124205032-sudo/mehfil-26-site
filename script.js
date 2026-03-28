@@ -705,25 +705,23 @@ if(sessionStorage.getItem("adShown")){
 
 
 const eventTimes = {
-    "Painting": "9AM",
-    "Blind Hunt": "12PM",
-    "Photography": "9AM",
-    "Illogical Marketing": "10AM",
-    "Start Music": "11AM",
-    "Sudoku": "12PM",
-    "Form from Waste": "9AM",
-    "Mime": "1PM",
-    "Kollywood Riddle Hunt": "12PM",
-    "Mono Acting": "10AM",
-    "Rubik's Cube": "10:30AM",
-    "Solo Dance": "2PM",
-    "Solo Singing": "1:30PM",
-    "Group Dance": "2:30PM",
-    "Corporate Walk": "3:15PM",
-    "Heritage of India": "3:15PM",
-    "Connections":"11AM",
+    "Painting": "9:00 AM",
+    "Form from Waste": "9:00 AM",
+    "Connections": "11:00 AM",
+    "Mono Acting / Drama / Mime": "10:00 AM",
+    "Blind Hunt": "12:00 PM",
+    "Illogical Marketing": "10:00 AM",
+    "Kollywood Riddle Hunt": "12:00 PM",
+    "Start Music": "11:00 AM",
+    "Rubik's Cube": "10:30 AM",
+    "Photography": "9:00 AM",
 
+    "Solo Singing (Boys & Girls)": "1:30 PM",
+    "Solo Dance (Boys & Girls)": "2:00 PM",
+    "Group Dance (Boys & Girls)": "2:30 PM",
 
+    "Corporate Walk (Boys)": "3:15 PM",
+    "Heritage of India (Girls)": "3:15 PM"
 };
 
 

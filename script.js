@@ -705,14 +705,25 @@ if(sessionStorage.getItem("adShown")){
 
 
 const eventTimes = {
-    "Painting": "10AM",
-    "Blind Hunt": "10AM",
-    "Photography": "11AM",
-    "Illogical Marketing": "11AM",
-    "Shipwreck": "12PM",
+    "Painting": "9AM",
+    "Blind Hunt": "12PM",
+    "Photography": "9AM",
+    "Illogical Marketing": "10AM",
+    "Start Music": "11AM",
     "Sudoku": "12PM",
-    "Form from Waste": "1PM",
-    "Mime": "1PM"
+    "Form from Waste": "9AM",
+    "Mime": "1PM",
+    "Kollywood Riddle Hunt": "12PM",
+    "Mono Acting": "10AM",
+    "Rubik's Cube": "10:30AM",
+    "Solo Dance": "2PM",
+    "Solo Singing": "1:30PM",
+    "Group Dance": "2:30PM",
+    "Corporate Walk": "3:15PM",
+    "Heritage of India": "3:15PM",
+    "Connections":"11AM",
+
+
 };
 
 
